@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi My Name is Shruti 👋
 
 <!--
 **shruti3032/shruti3032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
