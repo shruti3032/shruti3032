@@ -37,7 +37,7 @@ I'm a passionate software developer with a love for clean code and elegant solut
    - Designed and developed my personal portfolio website.
    - Showcases my projects, skills, and contact information.
    - Utilized HTML, CSS, and JavaScript.
-   - 
+   
 3. **Flight Price Prediction (Model)**
    - Flight price prediction model is employed to forecast the dynamic flight pricing. This provides the expected airfare values to get a flight ticket at the lowest possible price.
    - Languages Used: Python
@@ -48,8 +48,8 @@ I'm a passionate software developer with a love for clean code and elegant solut
    - Language Used: HTML, CSS, JavaScript, JQuery, Java, MySql
      
 5. **Doctor Appointment System (Website)**
-  - Online Doctor appointment system is an online web application where the use can book appointment through a web browser. The use can search Doctor by its name or profession. The use can login using his account details or new user can set up an account very quickly. User can schedule appointment with doctor by verifying their availability.
-  - Language Used: HTML, CSS, JavaScript, PHP, PhpMyAdmin
+   - Online Doctor appointment system is an online web application where the use can book appointment through a web browser. The use can search Doctor by its name or profession. The use can login using his account details or new user can set up an account very quickly. User can schedule appointment with doctor by verifying their availability.
+   - Language Used: HTML, CSS, JavaScript, PHP, PhpMyAdmin
 
 
 ## Interests
